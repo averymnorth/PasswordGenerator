@@ -1,4 +1,4 @@
-# Homework-3
+# Homework
 
 Password Generator
 
@@ -27,7 +27,7 @@ This application generates a random password based on user-selected criteria.
 
 ## Repository link
 
-
+https://github.com/averymnorth/PasswordGenerator
 
 ## Web Site Link
 
